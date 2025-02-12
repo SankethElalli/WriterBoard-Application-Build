@@ -1,0 +1,9 @@
+-rootPath
+D:/QTprojects/writerboarduiinqml
+-cmake-output
+-output-file
+D:/QTprojects/writerboarduiinqml/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/writerboarduiinqml_build.cmake
+-importPath
+D:/QTprojects/writerboarduiinqml/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-importPath
+D:/qt/6.7.2/mingw_64/./qml

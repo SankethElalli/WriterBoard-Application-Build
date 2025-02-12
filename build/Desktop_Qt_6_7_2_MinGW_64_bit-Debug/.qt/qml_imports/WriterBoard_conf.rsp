@@ -1,0 +1,9 @@
+-rootPath
+D:/WriterBoard
+-cmake-output
+-output-file
+D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/WriterBoard_conf.cmake
+-importPath
+D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-importPath
+D:/qt/6.7.2/mingw_64/./qml

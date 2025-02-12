@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c49b127e81f516ad5bb9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WriterBoard",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "WriterBoard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WriterBoard-Debug-dbd78f97d535372ec4e0.json",
+					"name" : "WriterBoard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WriterBoard_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WriterBoard_autogen-Debug-4e0386c4ef6e1b29346d.json",
+					"name" : "WriterBoard_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WriterBoard_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WriterBoard_autogen_timestamp_deps-Debug-ad41f5cb44e27cd6cdc8.json",
+					"name" : "WriterBoard_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WriterBoard_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WriterBoard_qmlimportscan-Debug-c178f3220192f4f8231f.json",
+					"name" : "WriterBoard_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "D:/WriterBoard"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

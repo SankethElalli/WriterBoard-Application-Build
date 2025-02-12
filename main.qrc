@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DragWindow.qml</file>
+        <file>icons/Add Node.svg</file>
+        <file>icons/Characters.svg</file>
+        <file>icons/Close.svg</file>
+        <file>icons/Forward.svg</file>
+        <file>icons/Home_icon.svg</file>
+        <file>icons/logo - Transparent.svg</file>
+        <file>icons/Minus.svg</file>
+        <file>icons/Notebook.svg</file>
+        <file>icons/Notepad.svg</file>
+        <file>icons/Notes Minimalistic.svg</file>
+        <file>icons/resize.svg</file>
+        <file>icons/Selection Mode.svg</file>
+        <file>icons/seprator.svg</file>
+        <file>icons/Vector 23.svg</file>
+        <file>icons/Writerboard (Copy).zip</file>
+    </qresource>
+</RCC>

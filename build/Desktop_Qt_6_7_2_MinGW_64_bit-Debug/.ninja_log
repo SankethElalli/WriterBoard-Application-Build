@@ -1,0 +1,21 @@
+# ninja log v6
+5	1475	7508657480358157	build.ninja	567c28e399d20b35
+12	158	7508655443293724	WriterBoard_autogen/timestamp	bc9500202361e5fc
+159	275	7508655445850886	WriterBoard_autogen/EWIEGA46WW/qrc_main.cpp	da9f44ac01a08423
+12	158	7508655443293724	WriterBoard_autogen/mocs_compilation.cpp	bc9500202361e5fc
+12	158	7508655443293724	D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/WriterBoard_autogen/mocs_compilation.cpp	bc9500202361e5fc
+12	158	7508655443293724	D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/WriterBoard_autogen/timestamp	bc9500202361e5fc
+159	275	7508655445850886	D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/WriterBoard_autogen/EWIEGA46WW/qrc_main.cpp	da9f44ac01a08423
+278	700	7508655445959538	CMakeFiles/WriterBoard.dir/WriterBoard_autogen/EWIEGA46WW/qrc_main.cpp.obj	4702ee451b2c707
+650	2983	7508506738803013	CMakeFiles/WriterBoard.dir/WriterBoard_autogen/mocs_compilation.cpp.obj	ed74e89a4e20f1d3
+275	2455	7508655445929481	CMakeFiles/WriterBoard.dir/mainwindow.cpp.obj	1f07da9fa9483b15
+21	138	7508506733626722	.qt/qml_imports/WriterBoard_build.cmake	ee56bc62159b8e0a
+21	138	7508506733626722	D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/WriterBoard_build.cmake	ee56bc62159b8e0a
+653	3090	7508506738833016	CMakeFiles/WriterBoard.dir/main.cpp.obj	28a74c286cee46ea
+2455	2940	7508655467731368	WriterBoard.exe	898770cbfffec6a
+33	195	7508657490470673	WriterBoard_autogen/timestamp	bc9500202361e5fc
+33	195	7508657490470673	WriterBoard_autogen/mocs_compilation.cpp	bc9500202361e5fc
+33	195	7508657490470673	D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/WriterBoard_autogen/timestamp	bc9500202361e5fc
+33	195	7508657490470673	D:/WriterBoard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/WriterBoard_autogen/mocs_compilation.cpp	bc9500202361e5fc
+195	1957	7508657492096266	CMakeFiles/WriterBoard.dir/mainwindow.cpp.obj	1f07da9fa9483b15
+1957	2160	7508657509721471	WriterBoard.exe	898770cbfffec6a
